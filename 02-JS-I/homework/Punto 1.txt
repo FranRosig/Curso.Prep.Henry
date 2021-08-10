@@ -1,0 +1,7 @@
+Variables: Asignarle un valor cualquiera a una palabra en concreto. El valor de la variable se puede modificar
+String: Texto encerrado entre comillas
+Funciones: Una función es la automatización de un proceso o tarea.
+Argumento: Los datos que se le pasan a la función para que ejecute la tarea determinada.
+Return: Solicitar a la función que devuelva algo en concreto al completar la tarea.
+Declaraciones if: Asignar una tarea siempre y cuando se cumpla cierta condición. Ejemplo: Si pasa A, hace B. Si pasa C, hace D. Si por el contrario, pasa 14, no hagas nada.
+Valores Booleanos: Dada una condición, arroja uno de los dos valores. Si la condición se cumple, entonces decimos que es true. Si no se cumple, es false. 
