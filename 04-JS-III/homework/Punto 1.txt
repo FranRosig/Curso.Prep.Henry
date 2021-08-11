@@ -1,0 +1,1 @@
+Array: generalmente es un conjunto de datos, separados entre comas ",". El array se determina por []. Un array puede tambien contener un solo elemento; por ejemplo: [5].
