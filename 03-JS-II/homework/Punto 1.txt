@@ -1,0 +1,4 @@
+For: Realiza una tarea determinada, según las instrucciones brindadas, siempre y cuando se cumpla una condición preestablecida. 
+&&: Se usa para validar dos o más declaraciones dentro de un mismo paréntesis. Todas las declaraciones deben ser true para que el resultado final también lo sea.
+||: Se usa para "encontrar" la condición que es true. Si, por ejemplo, se brindan 3 declaraciones: siempre y cuando alguna sea true, el resultado final también lo será.
+!: invierte el valor del boolean.
