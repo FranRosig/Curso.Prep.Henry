@@ -1,0 +1,6 @@
+Objeto: es una estructura de JavaScript en la cual se almacenan distintos elementos que a su vez tienen un valor determinado.
+Propiedades: clave : valor. Podría decirse que una propiedad es un elemento que tiene un nombre clave, al cual se le asigna un valor que responde a este último.
+Métodos: es una función que se invoca por medio del nombre clave que se le asignó.
+Bucle for..in: Se utiliza para iterar las claves dentro de un objeto.
+Se utiliza notación de corchetes cuando el nombre de la propiedad está contenido en una variable; el resto de los casos, se usa notación de punto. 
+    Por ejemplo, si tengo que iterar sobre una propiedad brindada por un parámetro, entonces utilizo corchete.
