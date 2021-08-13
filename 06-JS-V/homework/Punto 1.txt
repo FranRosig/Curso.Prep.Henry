@@ -1,0 +1,2 @@
+Prototype: se utiliza para asignar un método a la clase a la cual se está haciendo referencia.
+Constructores: se utilizan para crear una "plantilla" de un objeto.
